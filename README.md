@@ -9,6 +9,7 @@ Study group for Evolutionary Strategies
 ## pytorch examples
 https://github.com/jcjohnson/pytorch-examples
 
-
+## Link to Martins implementation
+https://github.com/mhattingpete/evolutionary-strategies
 
 
